@@ -1,5 +1,5 @@
-# Hi Traveller, I am <span style="color: #FF5733;"> Tushar </span> 👋
-the text color is `rgb(0, 116, 145)`
+# Hi Traveller, I am <span style="color:rgb(0, 116, 145);"> Tushar </span> 👋
+
 
 
 ## What i do?
