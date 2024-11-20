@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:20px;" width="100%" src="https://github.com/Tushardhongade/Tushardhongade/blob/main/webpage1.png" alt="portfolio" />
 
 
-<h1> Hi Traveller,I am  <span style="color:rgb(22, 112, 147); font-size:2rem;" > Tushar </span> 👋</h1> 
+<> Hi Traveller , I am  <span style="color:rgb(22, 112, 147); font-size:2rem;" > Tushar </span> 👋</> 
 
 
 
