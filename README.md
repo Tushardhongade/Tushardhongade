@@ -1,4 +1,4 @@
-# Hi Traveller, I am <span style="color:rgb(0, 116, 145);"> Tushar </span> 👋
+# Hi Traveller, I am <span style="color:red;" > Tushar </span> 👋
 
 
 
