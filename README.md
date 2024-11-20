@@ -1,7 +1,7 @@
-# Hi Traveller, I am <span style="color: #FF5733;">Your Name</span> 👋
+# Hi Traveller, I am <span style="color: #FF5733;"> Tushar </span> 👋
 
-🌟 **Opensource = Design + Develop + Automate**
 
+<!--
 ![Skills](https://img.shields.io/badge/Skills-Figma%20|%20React%20|%20Kubernetes-blue)
 
 ### About Me
@@ -21,7 +21,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
-
+-->
 # What i do?
 ▶Frontend Developer
 <!--
