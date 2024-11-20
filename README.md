@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:20px;" width="100%" src="https://github.com/Tushardhongade/Tushardhongade/blob/main/webpage1jpg" alt="portfolio" />
+<img align="center" style="margin-bottom:20px;" width="100%" src="https://github.com/Tushardhongade/Tushardhongade/blob/main/webpage1.png" alt="portfolio" />
 
 https://github.com/Tushardhongade/Tushardhongade/blob/main/
 # Hi Traveller, I am <span style="color:red;" > Tushar </span> 👋
