@@ -1,4 +1,6 @@
-<img align="center" style="margin-bottom:20px; border-radius:10px" width="100%" src="https://github.com/Tushardhongade/Tushardhongade/blob/main/webpage1.png" alt="portfolio" />
+<div  style="margin-bottom:20px; border-radius:10px">
+ <img align="center" width="100%" src="https://github.com/Tushardhongade/Tushardhongade/blob/main/webpage1.png" alt="portfolio" />
+</div>
 
 
  # Hi Traveller , I'm Tushar👋
