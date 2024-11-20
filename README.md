@@ -1,8 +1,8 @@
 # Hi Traveller, I am <span style="color: #FF5733;"> Tushar </span> 👋
 
-```
-What i do?
-```
+
+## What i do?
+
 <img align="right" width="200px" src="https://github.com/Tushardhongade/Tushardhongade/blob/main/webpage.png" alt="profile" />
 ▶Frontend Developer
 <!--
