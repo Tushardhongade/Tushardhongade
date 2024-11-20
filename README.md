@@ -1,9 +1,28 @@
-## Hi there 👋
+# Hi Traveller, I am [Your Name] 👋
 
-👨🏽‍🎓 I'm a MCA student at Dr Dy Patil Institute Management and Enterpreneur Developement ,varale,Talegaon. 
-🤔 I'm seeking a work from home job to do it with my studies.
+🌟 **Opensource = Design + Develop + Automate**
 
-##What i do?
+![Skills](https://img.shields.io/badge/Skills-Figma%20|%20React%20|%20Kubernetes-blue)
+
+### About Me
+- 🚀 Machine Learning Enthusiast | Open Source Contributor
+- 🌱 Currently learning [insert topic here]
+- 📫 Reach me at [email@example.com](mailto:email@example.com)
+
+### Tools I Work With
+| Design Tools | Development Tools | Automation Tools |
+|--------------|-------------------|------------------|
+| Figma, AI    | React, Flutter    | Docker, K8s      |
+
+### Connect with Me 🌐
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-blue)](https://twitter.com/your-handle)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+
+# What i do?
 ▶Frontend Developer
 <!--
 **Tushardhongade/Tushardhongade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
