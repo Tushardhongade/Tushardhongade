@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+👨🏽‍🎓 I'm a MCA student at Dr Dy Patil Institute Management and Enterpreneur Developement ,varale,Talegaon. 
+🤔 I'm seeking a work from home job to do it with my studies.
+
+##What i do?
+▶Frontend Developer
 <!--
 **Tushardhongade/Tushardhongade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
