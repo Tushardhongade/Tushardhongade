@@ -1,8 +1,11 @@
+<img align="center" style="margin-bottom:20px;" width="100%" src="https://github.com/Tushardhongade/Tushardhongade/blob/main/webpage1jpg" alt="portfolio" />
+
+https://github.com/Tushardhongade/Tushardhongade/blob/main/
 # Hi Traveller, I am <span style="color:red;" > Tushar </span> 👋
 
 
 
-## What i do?
+### What i do?
 
 <img align="right" width="200px" src="https://github.com/Tushardhongade/Tushardhongade/blob/main/webpage.png" alt="profile" />
 ▶Frontend Developer
