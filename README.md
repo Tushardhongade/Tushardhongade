@@ -9,7 +9,7 @@
 
 ### What i do?
 
-<img align="right" width="200px" src="https://github.com/Tushardhongade/Tushardhongade/blob/main/webpage.png" alt="profile" />
+
 ▶Frontend Developer
 <!--
 **Tushardhongade/Tushardhongade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
