@@ -1,5 +1,4 @@
 <div  style="margin-bottom:50px; border-radius:10px">
- <img align="center" width="100%" src="https://github.com/Tushardhongade/Tushardhongade/blob/main/webpage1.png" alt="portfolio" />
 </div>
 
 
