@@ -1,5 +1,5 @@
 <div  style="margin-bottom:50px; border-radius:10px">
- <img src="https://github.com/Tushardhongade/Tushardhongade/Portfolio.png" alt="" />
+ <img src="https://github.com/Tushardhongade/Tushardhongade/blob/main/Portfolio.png" alt="" />
 </div>
 
 
