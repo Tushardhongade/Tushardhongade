@@ -9,8 +9,10 @@
 
 ### What i do?
 
+▶Full Stack Web Developer
+- 🔭 I’m currently working on Portfolio Website
+- 🌱 I’m pursuing Post Graduation in MCA
 
-▶Frontend Developer
 <!--
 **Tushardhongade/Tushardhongade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
